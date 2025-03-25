@@ -1,0 +1,2 @@
+github: https://github.com/pixegami/langchain-rag-tutorial
+youtube: https://www.youtube.com/watch?v=tcqEUSNCn8I
